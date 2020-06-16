@@ -1,24 +1,12 @@
-# README
+# Topps Project 2020 API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic API to track all the cards in the Topps Project 2020 collection. The database is updated daily with new cards and print run numbers.
 
-Things you may want to cover:
+Things this API does:
 
-* Ruby version
+* Shows all cards
 
-* System dependencies
+* Shows cards for players and artists
 
-* Configuration
+* Allows users to create an account to track their own cards
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
