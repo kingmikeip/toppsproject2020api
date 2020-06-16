@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  card_number: 1
+  number_owned: 1
+  avg_price_paid: 1.5
+  total_price_paid: 1.5
+  player: MyString
+  artist_string: MyString
+  print_run: 1
+  is_artist_proof: false
+  is_one_of_one: false
+  is_in_hand: false
+  user: one
+  is_wish_list_item: false
+  value_per_card: 1.5
+  value_total: 1.5
+
+two:
+  card_number: 1
+  number_owned: 1
+  avg_price_paid: 1.5
+  total_price_paid: 1.5
+  player: MyString
+  artist_string: MyString
+  print_run: 1
+  is_artist_proof: false
+  is_one_of_one: false
+  is_in_hand: false
+  user: two
+  is_wish_list_item: false
+  value_per_card: 1.5
+  value_total: 1.5
